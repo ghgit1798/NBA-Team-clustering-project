@@ -3,7 +3,7 @@
 - 데이터: [nba 2017-2018 regular season data](https://www.kaggle.com/michaelmcfarlane/20172018-nba-regular-season-game-data)
 - 사용 언어: R, Python(Pandas, Numpy, Plotly, Scklearn)
 - 맡은 역할: data preprocessing, clustering, visualization
-
+- Blog 추가 설명: [Today I learned](https://western-sky.tistory.com/42?category=847897)
 ## 🔸 분석 배경
 - 야구를 비롯한 스포츠분야에서 데이터와 AI를 바탕으로 승리를 결정짓는 요인을 파악하려는 시도가 증가하고 있다.
 - 농구에서도 승리에 기여하는 특정한 요소를 발견할 수 있으리라는 기대감에 본 프로젝트를 진행하였다.
