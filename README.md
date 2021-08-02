@@ -1,5 +1,5 @@
 # NBA 강/약팀 clustering project
-- 목표: NBA 정규 시즌 데이터로부터 강/약팀 군집 분류 후 특징 파악
+- 목적: NBA 정규 시즌 데이터로부터 강/약팀 군집 분류 후 특징 파악
 - 데이터: [nba 2017-2018 regular season data](https://www.kaggle.com/michaelmcfarlane/20172018-nba-regular-season-game-data)
 - 사용 언어: R, Python(Pandas, Numpy, Plotly, Scklearn)
 - 맡은 역할: data preprocessing, clustering, visualization
